@@ -1,0 +1,9 @@
+islem-first-branch.txt
+
+Branching is an essential feature in version control systems like Git. 
+It allows developers to work on separate tasks or features in isolation 
+without affecting the main codebase. This ability to create different branches 
+facilitates collaboration and enables efficient parallel development. 
+By creating a branch for each new feature or bug fix, developers can 
+collaborate without interfering with each other's work. Once changes are 
+ready, they can be merged back into the main branch after thorough review.
