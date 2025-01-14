@@ -1,1 +1,0 @@
-Branching is a key concept in version control systems like Git, allowing developers to work on different features or fixes simultaneously.
