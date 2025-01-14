@@ -1,1 +1,0 @@
-In this workshop, I learned about Git, version control, and the importance of collaboration through branching.

@@ -1,6 +1,0 @@
-Branching allows multiple developers to work on
-different features, bug fixes,
-or experiments simultaneously without 
-interfering with each other's work.
-Each developer can create their own branch, 
-make changes, and test without affecting the main codebase
