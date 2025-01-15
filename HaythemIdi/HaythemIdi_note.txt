@@ -1,0 +1,1 @@
+In the Git workshop, I learned how to use Git for effective version control and collaboration. Key concepts like creating repositories, branching and committing change were covered in detail. I also gained hands-on experience with commands like git add, git commit, git push, and git pull, which are essential for managing and sharing code in a team environment
